@@ -1,0 +1,10 @@
+.game-info div {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .game-info div span {
+    color: #f00;
+  }
